@@ -61,4 +61,3 @@
     <p>Nach der Bewertung werden Sie automatisch zur Zahlung weitergeleitet.</p>
 </body>
 </html>
-
